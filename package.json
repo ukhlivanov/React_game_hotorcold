@@ -9,7 +9,7 @@
     "react-test-renderer": "^16.1.1"
   },
   "dependencies": {
-    "react": "^16.1.1",
+    "react": "^16.6.0",
     "react-dom": "^16.1.1",
     "react-redux": "^5.0.2",
     "redux": "^3.6.0",
@@ -20,5 +20,23 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "[GitHub](https://github.com/Thinkful-Ed/react-hot-cold)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ukhlivanov/react-hot-cold.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ukhlivanov/react-hot-cold/issues"
+  },
+  "homepage": "https://github.com/ukhlivanov/react-hot-cold#readme",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
